@@ -1,0 +1,193 @@
+body{
+	
+	font-family: 'Oxygen', sans-serif;}
+
+
+.container{
+	width:%100;
+	
+	margin-bottom:50px;}
+	
+	.ustmenu{
+		margin-left:-450px;
+		font-size:14px;
+		
+		color:#FFF;
+		
+		
+		}
+	.ustmenu:hover{
+			opacity:0.6;
+			
+			
+			
+		}	
+.menu{
+	
+	
+	margin:5px;
+	margin-left:30px;}
+
+	#logo{
+		
+		width:100%;
+		
+		
+		margin-left:20px;}
+	.tel{
+		margin-left:50px;
+		
+		font-size:14px;
+		color:#FFF;}
+		.ara{
+			font-size:14px;
+			margin:10px;
+			margin-top:10px;
+		
+		font-size:20px;
+		color:#FFF;}
+		 .mail{
+			 margin-left:-450px;
+			
+		 
+			
+		
+		font-size:20px;
+		color:#FFF;}
+		
+		.maill{
+			margin-left:-450px;
+			font-size:14px;
+			color:#FFF;
+			}
+		.maill:hover{
+			opacity:0.6;
+			
+			
+			
+		}	
+			
+		.icon{
+			margin:5px;}	
+			
+			.ikon{
+				margin-right:-455px;
+				color:#FFF;
+				font-size:20px;}
+				
+				
+				.ikonn{
+					
+					
+					margin-right:-449px;
+				color:#FFF;
+				font-size:20px;}
+				
+				.ikonnn{
+					margin-right:-340px;
+				color:#FFF;
+				font-size:20px;}
+		.banner{
+			height:350px;}	
+			
+			
+		.yazi{		text-align:center;
+			font-size:35px;
+			color:#FFF;
+			position:absolute;
+	top:65%;
+	left:50%;
+	transform:translate(-50%,-50%);}	
+			
+	
+			
+				.yazi:hover{
+			opacity:0.6;
+		
+		}
+		
+		.igri{
+			height:300px;
+			
+			background-color:#f2f2f2;
+			
+			}
+		.gri{
+			height:440px;
+			
+			background-color:#f2f2f2;	
+			
+			
+		}
+		.beyaz{
+			height:650px;
+			background-color:#FFF;}
+			.cardi{
+				margin:3px;
+				text-align:center;
+
+				border: 1px solid #CCC;
+				
+				float:left;}
+		
+		
+		.resimm{
+			border-radius:5px;
+			margin:5px;
+			width:275px;
+			height:210px;}
+			
+		.card-text{
+			margin-top:30px;}	
+			
+		h5{
+			margin-top:10px;
+			font-size:20px;}	
+		.card{
+			margin:15px;
+			margin-left:20px;
+			
+			
+			float:left;
+			}	
+			
+			.btn{
+				border: solid #333;
+				background-color:#333
+				;}
+				.btn:hover{
+					border: solid #999;
+					background-color:#999;
+					opacity:0.6;
+				}
+				
+				.btnn{
+					width:120px;
+					
+					margin-left:1070px;}
+					
+					.btnnn{
+					width:120px;
+					
+					margin-left:1070px;
+				}
+					
+					.btnnb{
+				
+					width:120px;
+					margin-left:50px;
+					margin-top:10px;
+					}
+					
+				.resim{
+			border-radius:5px;
+			margin:5px;
+			width:245px;
+			height:210px;}
+			.resim:hover{
+				opacity:0.5}
+				.adres{
+					float:left;
+					margin:5px;
+					
+					}
